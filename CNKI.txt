@@ -1,0 +1,42 @@
+<outline text="翻译研究与教学-CNKI" title="翻译研究与教学-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/FYJX" htmlUrl="https://navi.cnki.net/knavi/journals/FYJX/detail?uniplatform=NZKPT"/>
+      <outline text="百科知识-CNKI" title="百科知识-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/BKZS" htmlUrl="https://navi.cnki.net/knavi/journals/BKZS/detail?uniplatform=NZKPT"/>
+      <outline text="海外英语-CNKI" title="海外英语-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/HWYY" htmlUrl="https://navi.cnki.net/knavi/journals/HWYY/detail?uniplatform=NZKPT"/>
+      <outline text="外语学刊-CNKI" title="外语学刊-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/OUTL" htmlUrl="https://navi.cnki.net/knavi/journals/OUTL/detail?uniplatform=NZKPT"/>
+      <outline text="外国语言与文化-CNKI" title="外国语言与文化-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/WYWH" htmlUrl="https://navi.cnki.net/knavi/journals/WYWH/detail?uniplatform=NZKPT"/>
+      <outline text="外国语(上海外国语大学学报)-CNKI" title="外国语(上海外国语大学学报)-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/WYXY" htmlUrl="https://navi.cnki.net/knavi/journals/WYXY/detail?uniplatform=NZKPT"/>
+      <outline text="广东外语外贸大学学报-CNKI" title="广东外语外贸大学学报-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/GDWY" htmlUrl="https://navi.cnki.net/knavi/journals/GDWY/detail?uniplatform=NZKPT"/>
+      <outline text="天津外国语大学学报-CNKI" title="天津外国语大学学报-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/TJWG" htmlUrl="https://navi.cnki.net/knavi/journals/TJWG/detail?uniplatform=NZKPT"/>
+      <outline text="外语研究-CNKI" title="外语研究-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/NWYJ" htmlUrl="https://navi.cnki.net/knavi/journals/NWYJ/detail?uniplatform=NZKPT"/>
+      <outline text="外国语文-CNKI" title="外国语文-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/SCWY" htmlUrl="https://navi.cnki.net/knavi/journals/SCWY/detail?uniplatform=NZKPT"/>
+      <outline text="翻译界-CNKI" title="翻译界-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/FYIJ" htmlUrl="https://navi.cnki.net/knavi/journals/FYIJ/detail?uniplatform=NZKPT"/>
+      <outline text="北京第二外国语学院学报-CNKI" title="北京第二外国语学院学报-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/JDEW" htmlUrl="https://navi.cnki.net/knavi/journals/JDEW/detail?uniplatform=NZKPT"/>
+      <outline text="英语广场-CNKI" title="英语广场-CNKI" type="rss" 
+            xmlUrl="https://navi.cnki.net/knavi/rss/YGXS" htmlUrl="https://navi.cnki.net/knavi/journals/YGXS/detail?uniplatform=NZKPT"/>
+      <outline text="外语界-CNKI" title="外语界-CNKI" type="rss" 
+            xmlUrl="https://navi.cnki.net/knavi/rss/WYJY" htmlUrl="https://navi.cnki.net/knavi/journals/WYJY/detail?uniplatform=NZKPT"/>
+      <outline text="中国翻译-CNKI" title="中国翻译-CNKI" type="rss" 
+            xmlUrl="https://navi.cnki.net/knavi/rss/ZGFY" htmlUrl="https://navi.cnki.net/knavi/journals/ZGFY/detail?uniplatform=NZKPT"/>
+      <outline text="上海翻译-CNKI" title="上海翻译-CNKI" type="rss" 
+            xmlUrl="https://navi.cnki.net/knavi/rss/SHKF" htmlUrl="https://navi.cnki.net/knavi/journals/SHKF/detail?uniplatform=NZKPT"/>
+      <outline text="翻译研究-CNKI" title="翻译研究-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/FYYA" htmlUrl="https://navi.cnki.net/knavi/journals/FYYA/detail?uniplatform=NZKPT"/>
+      <outline text="中国科技翻译-CNKI" title="中国科技翻译-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/KJFY" htmlUrl="https://navi.cnki.net/knavi/journals/KJFY/detail?uniplatform=NZKPT"/>
+      <outline text="中国科技术语-CNKI" title="中国科技术语-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/KJSY" htmlUrl="https://navi.cnki.net/knavi/journals/KJSY/detail?uniplatform=NZKPT"/>
+      <outline text="语料库语言学-CNKI" title="语料库语言学-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/YLYY" htmlUrl="https://navi.cnki.net/knavi/journals/YLYY/detail?uniplatform=NZKPT"/>
+      <outline text="外语电化教学-CNKI" title="外语电化教学-CNKI" type="rss" 
+            xmlUrl="https://kns.cnki.net/knavi/rss/WYDH" htmlUrl="https://navi.cnki.net/knavi/journals/WYDH/detail?uniplatform=NZKPT"/>
