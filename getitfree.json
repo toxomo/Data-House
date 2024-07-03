@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "name": "正版中国",
+  "description": "No description provided",
+  "source_url": false,
+  "guid": "62bbfef2f51de73266380a61101fc731",
+  "tag_fg_color": "#ffffff",
+  "tag_bg_color": "#5bc0de",
+  "icon": "gear",
+  "exported_at": "2024-07-02T04:34:10Z",
+  "agents": [
+    {
+      "type": "Agents::WebsiteAgent",
+      "name": "正版中国",
+      "disabled": false,
+      "guid": "c1321b55d549e2a2afe2633a377d5ffa",
+      "options": {
+        "expected_update_period_in_days": "2",
+        "url": "https://www.getitfree.cn",
+        "type": "html",
+        "mode": "all",
+        "extract": {
+          "url": {
+            "css": ".posts-default h2>a",
+            "value": "@href"
+          },
+          "title": {
+            "css": ".posts-default h2>a",
+            "value": "@title"
+          },
+          "hovertext": {
+            "css": ".posts-default .posts-text",
+            "value": "string(.)"
+          }
+        }
+      },
+      "schedule": "every_5h",
+      "keep_events_for": 0,
+      "propagate_immediately": false
+    },
+    {
+      "type": "Agents::DataOutputAgent",
+      "name": "正版中国RSS",
+      "disabled": false,
+      "guid": "fefa791323a8b4493975665793894e6c",
+      "options": {
+        "secrets": [
+          "getitfree"
+        ],
+        "expected_receive_period_in_days": 2,
+        "template": {
+          "title": "正版中国",
+          "description": "正版中国",
+          "item": {
+            "title": "{{title}}",
+            "description": " {{hovertext}}",
+            "link": "{{url}}"
+          }
+        },
+        "ns_media": "true"
+      },
+      "propagate_immediately": true
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "receiver": 1
+    }
+  ],
+  "control_links": [
+
+  ]
+}
