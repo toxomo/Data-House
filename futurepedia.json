@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "name": "futurepedia",
+  "description": "No description provided",
+  "source_url": false,
+  "guid": "9cdf654161be57ce8f2a1d1f7d8acf3b",
+  "tag_fg_color": "#ffffff",
+  "tag_bg_color": "#5bc0de",
+  "icon": "globe",
+  "exported_at": "2024-07-02T04:34:01Z",
+  "agents": [
+    {
+      "type": "Agents::PhantomJsCloudAgent",
+      "name": "futurepedia_PhantomJs",
+      "disabled": false,
+      "guid": "3fa2447386dcdc7ccdf0830a320edf9e",
+      "options": {
+        "mode": "clean",
+        "api_key": "ak-sc72h-8m2xp-s3pbq-55hsk-7e3b9",
+        "url": "https://www.futurepedia.io/?sort=new",
+        "render_type": "html",
+        "output_as_json_radio": "false",
+        "output_as_json": "false",
+        "ignore_images_radio": "false",
+        "ignore_images": "false",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "wait_interval": "2000"
+      },
+      "schedule": "every_12h",
+      "keep_events_for": 0,
+      "propagate_immediately": false
+    },
+    {
+      "type": "Agents::DataOutputAgent",
+      "name": "futurepedia_RSS",
+      "disabled": false,
+      "guid": "6ed066940f22b6f9b09c97930111b270",
+      "options": {
+        "secrets": [
+          "futurepedia"
+        ],
+        "expected_receive_period_in_days": 2,
+        "template": {
+          "title": "futurepedia",
+          "description": "This is a feed of recent futurepedia",
+          "item": {
+            "title": "{{title}}",
+            "description": "{{hovertext}}",
+            "link": "{{link}}"
+          }
+        },
+        "ns_media": "true"
+      },
+      "propagate_immediately": true
+    },
+    {
+      "type": "Agents::WebsiteAgent",
+      "name": "futurepedia_content",
+      "disabled": false,
+      "guid": "80703c8c47855f9d101b616745f8ed74",
+      "options": {
+        "expected_update_period_in_days": "20",
+        "url": "{{url}}",
+        "type": "html",
+        "mode": "all",
+        "extract": {
+          "relink": {
+            "css": ".items-start .items-start>a:first-of-type",
+            "value": "@href"
+          },
+          "title": {
+            "css": ".items-start .items-start>a:first-of-type>p",
+            "value": "string(.)"
+          },
+          "hovertext": {
+            "css": ".bg-card p.text-base",
+            "value": "string(.)"
+          }
+        },
+        "template": {
+          "link": "{{relink|to_uri:\"https://www.futurepedia.io\"}}"
+        }
+      },
+      "schedule": "every_5h",
+      "keep_events_for": 0,
+      "propagate_immediately": true
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "receiver": 2
+    },
+    {
+      "source": 2,
+      "receiver": 1
+    }
+  ],
+  "control_links": [
+
+  ]
+}
