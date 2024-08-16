@@ -4,6 +4,8 @@ payload:
   #AI
   - DOMAIN-SUFFIX,phind.com
   - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,flowith.io
+  - DOMAIN-SUFFIX,coze.com
   #misc
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,inoreader.com
