@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Xumin Tang from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="AI" title="AI">
+      <outline text="AI快讯" title="AI快讯" type="rss" xmlUrl="http://toxomo.synology.me:10001/users/1/web_requests/17/AINEWS.xml" htmlUrl="https://localhost:3000/"/>
+      <outline text="GPT" title="GPT" type="rss" xmlUrl="https://www.reddit.com/r/GPT/.rss" htmlUrl="https://www.reddit.com/r/GPT/"/>
+      <outline text="Unite.AI" title="Unite.AI" type="rss" xmlUrl="https://www.unite.ai/feed/" htmlUrl="https://www.unite.ai/"/>
+      <outline text="&quot;人工智能工具&quot; - Google 新闻" title="&quot;人工智能工具&quot; - Google 新闻" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7&amp;hl=zh-Hans-CN&amp;gl=CN&amp;ceid=CN:zh-Hans" htmlUrl="https://news.google.com/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A5%E5%85%B7&amp;hl=zh-CN&amp;gl=CN&amp;ceid=CN:zh-Hans"/>
+      <outline text="futurepedia" title="futurepedia" type="rss" xmlUrl="http://toxomo.synology.me:10001/users/1/web_requests/11/futurepedia.xml" htmlUrl="https://localhost:3000/"/>
+      <outline text="AIGC Weekly" title="AIGC Weekly" type="rss" xmlUrl="https://quail.ink/op7418/feed/atom" htmlUrl="http://example.org/"/>
+      <outline text="&quot;AI tool&quot; - Google News" title="&quot;AI tool&quot; - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=AI%20tool&amp;hl=en" htmlUrl="https://news.google.com/search?q=AI+tool&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="AI工具" title="AI工具" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/3351wmz677ldee1g.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+    </outline>
+    <outline text="翻译" title="翻译">
+      <outline text="&quot;AI translation&quot; - Google News" title="&quot;AI translation&quot; - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=AI%20translation&amp;hl=en" htmlUrl="https://news.google.com/search?q=AI+translation&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="&quot;machine translation&quot; - Google News" title="&quot;machine translation&quot; - Google News" type="rss" xmlUrl="https://news.google.com/news/rss/search?q=machine%20translation&amp;hl=en" htmlUrl="https://news.google.com/search?q=machine+translation&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline text="Argos Multilingual" title="Argos Multilingual" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2gZ9IBNRCtDt5tqzR1vLdw" htmlUrl="https://www.youtube.com/channel/UC2gZ9IBNRCtDt5tqzR1vLdw"/>
+      <outline text="Language Weaver" title="Language Weaver" type="rss" xmlUrl="https://community.rws.com/product-groups/linguistic-ai/cloud/rss" htmlUrl="https://community.rws.com/product-groups/linguistic-ai/cloud/"/>
+      <outline text="tcworld" title="tcworld" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/udv5x141wb72ucya.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Custom.MT" title="Custom.MT" type="rss" xmlUrl="https://custom.mt/feed/" htmlUrl="https://custom.mt/"/>
+      <outline text="LocWorld" title="LocWorld" type="rss" xmlUrl="https://locworld.com/feed/" htmlUrl="https://locworld.com/"/>
+      <outline text="Studio Tips – multifarious" title="Studio Tips – multifarious" type="rss" xmlUrl="https://multifarious.filkin.com/category/cat-tools/studio-tips/feed/" htmlUrl="https://multifarious.filkin.com/"/>
+      <outline text="RWS AppStore" title="RWS AppStore" type="rss" xmlUrl="https://community.rws.com/product-groups/trados-portfolio/rws-appstore/rss" htmlUrl="https://community.rws.com/product-groups/trados-portfolio/rws-appstore/"/>
+      <outline text="SDL Trados" title="SDL Trados" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCm2v86Bb5z0jLl6RiaGhH_g" htmlUrl="https://www.youtube.com/channel/UCm2v86Bb5z0jLl6RiaGhH_g/videos"/>
+      <outline text="MultiLingual" title="MultiLingual" type="rss" xmlUrl="https://multilingual.com/feed/" htmlUrl="https://multilingual.com/"/>
+      <outline text="DITA Writer" title="DITA Writer" type="rss" xmlUrl="http://www.ditawriter.com/?feed=rss2" htmlUrl="http://www.ditawriter.com/"/>
+      <outline text="Trados Studio" title="Trados Studio" type="rss" xmlUrl="https://community.rws.com/product-groups/trados-portfolio/trados-studio/rss" htmlUrl="https://community.rws.com/product-groups/trados-portfolio/trados-studio/"/>
+      <outline text="ProZ" title="ProZ" type="rss" xmlUrl="https://www.proz.com/rss.php?channel=forums" htmlUrl="https://www.proz.com/forums/"/>
+      <outline text="Slator" title="Slator" type="rss" xmlUrl="https://slator.com/feed/" htmlUrl="https://slator.com/"/>
+    </outline>
+    <outline text="字幕" title="字幕">
+      <outline text="Star Trek: Strange New Worlds latest subttiles" title="Star Trek: Strange New Worlds latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/2022-star-trek-strange-new-worlds-tv-series/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/2022-star-trek-strange-new-worlds-tv-series"/>
+      <outline text="Star Trek: The Next Generation latest subttiles" title="Star Trek: The Next Generation latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/1987-star-trek-the-next-generation/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/cs/tvshows/1987-star-trek-the-next-generation"/>
+      <outline text="Star Trek: Hidden Frontier latest subttiles" title="Star Trek: Hidden Frontier latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/2000-star-trek-hidden-frontier/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/2000-star-trek-hidden-frontier"/>
+      <outline text="Star Trek: Prodigy latest subttiles" title="Star Trek: Prodigy latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/all/tvshows/2021-star-trek-prodigy/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/2021-star-trek-prodigy"/>
+      <outline text="Star Trek: Short Treks latest subttiles" title="Star Trek: Short Treks latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/all/tvshows/2018-star-trek-short-treks/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/2018-star-trek-short-treks"/>
+      <outline text="Star Trek Continues latest subttiles" title="Star Trek Continues latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/2013-star-trek-continues/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/2013-star-trek-continues"/>
+      <outline text="Star Trek latest subttiles" title="Star Trek latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/1966-star-trek/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/1966-star-trek"/>
+      <outline text="Star Trek: Enterprise latest subttiles" title="Star Trek: Enterprise latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/2001-star-trek-enterprise/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/en/tvshows/2001-star-trek-enterprise"/>
+      <outline text="Star Trek: Deep Space Nine latest subttiles" title="Star Trek: Deep Space Nine latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/1993-star-trek-deep-space-nine/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/de/tvshows/1993-star-trek-deep-space-nine"/>
+      <outline text="Star Trek: Discovery latest subttiles" title="Star Trek: Discovery latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/2017-star-trek-discovery/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/zh-CN/tvshows/2017-star-trek-discovery"/>
+      <outline text="Star Trek: Voyager latest subttiles" title="Star Trek: Voyager latest subttiles" type="rss" xmlUrl="https://www.opensubtitles.com/en/en/tvshows/1995-star-trek-voyager/latest_subtitles.rss" htmlUrl="https://www.opensubtitles.com/no/tvshows/1995-star-trek-voyager"/>
+    </outline>
+    <outline text="运动" title="运动">
+      <outline text="美骑网 as a feed" title="美骑网 as a feed" type="rss" xmlUrl="http://toxomo.synology.me:10001/users/1/web_requests/14/MQW.xml" htmlUrl="https://localhost:3000/"/>
+      <outline text="BikeGremlin" title="BikeGremlin" type="rss" xmlUrl="https://bike.bikegremlin.com/feed/" htmlUrl="https://bike.bikegremlin.com/"/>
+      <outline text="crankduty.com" title="crankduty.com" type="rss" xmlUrl="https://crankduty.com/feed/" htmlUrl="https://crankduty.com/"/>
+      <outline text="BikeRadar News" title="BikeRadar News" type="rss" xmlUrl="https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-news" htmlUrl="https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-news"/>
+      <outline text="BikeRadar Gravel" title="BikeRadar Gravel" type="rss" xmlUrl="https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-gravel-feed" htmlUrl="https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-gravel-feed"/>
+      <outline text="BikeRadar MTB" title="BikeRadar MTB" type="rss" xmlUrl="https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-mtb-feed" htmlUrl="https://feeds.purplemanager.com/193c804a-a673-47bd-b09b-11baf4822a17/bikeradar-mtb-feed"/>
+      <outline text="Recent Questions - Bicycles Stack Exchange" title="Recent Questions - Bicycles Stack Exchange" type="rss" xmlUrl="https://bicycles.stackexchange.com/feeds" htmlUrl="https://bicycles.stackexchange.com/questions"/>
+    </outline>
+    <outline text="技术资讯" title="技术资讯">
+      <outline text="V2EX - 技术" title="V2EX - 技术" type="rss" xmlUrl="https://www.v2ex.com/feed/tab/tech.xml" htmlUrl="https://www.v2ex.com/"/>
+      <outline text="V2EX - 创意" title="V2EX - 创意" type="rss" xmlUrl="https://www.v2ex.com/feed/tab/creative.xml" htmlUrl="https://www.v2ex.com/"/>
+      <outline text="稀土掘金" title="稀土掘金" type="rss" xmlUrl="https://gold.xitu.io/rss" htmlUrl="https://gold.xitu.io/"/>
+      <outline text="How-To Geek" title="How-To Geek" type="rss" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl="http://www.howtogeek.com/"/>
+      <outline text="The Verge -  Science Posts" title="The Verge -  Science Posts" type="rss" xmlUrl="https://www.theverge.com/science/rss/index.xml" htmlUrl="https://www.theverge.com/science"/>
+      <outline text="The Digital Reader" title="The Digital Reader" type="rss" xmlUrl="https://feeds.feedburner.com/TheDigitalReader" htmlUrl="https://the-digital-reader.com/"/>
+      <outline text="The Verge -  All Posts" title="The Verge -  All Posts" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
+      <outline text="MakeUseOf" title="MakeUseOf" type="rss" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com"/>
+      <outline text="TechCrunch" title="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/" htmlUrl="http://techcrunch.com/"/>
+      <outline text="远景论坛 - 微软极客社区 -" title="远景论坛 - 微软极客社区 -" type="rss" xmlUrl="https://www.pcbeta.com/portal.php?mod=rss" htmlUrl="https://www.pcbeta.com/portal.php"/>
+      <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com/"/>
+      <outline text="Engadget" title="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com/"/>
+      <outline text="Lifehacker" title="Lifehacker" type="rss" xmlUrl="https://lifehacker.com/feed" htmlUrl="http://lifehacker.com/"/>
+      <outline text="Droid Life | Opinionated Android news." title="Droid Life | Opinionated Android news." type="rss" xmlUrl="https://www.droid-life.com/feed/" htmlUrl="https://www.droid-life.com/"/>
+      <outline text=" How-To Geek - Windows " title=" How-To Geek - Windows " type="rss" xmlUrl="https://www.howtogeek.com/feed/category/windows/" htmlUrl="https://www.howtogeek.com/"/>
+      <outline text=" How-To Geek - PC Optimization " title=" How-To Geek - PC Optimization " type="rss" xmlUrl="https://www.howtogeek.com/feed/tag/pc-optimization/" htmlUrl="https://www.howtogeek.com/"/>
+      <outline text=" How-To Geek - Android Phones &amp; Tablets " title=" How-To Geek - Android Phones &amp; Tablets " type="rss" xmlUrl="https://www.howtogeek.com/feed/tag/android-phones-tablets/" htmlUrl="https://www.howtogeek.com/"/>
+      <outline text="远景论坛" title="远景论坛" type="rss" xmlUrl="https://bbs.pcbeta.com/forum.php?mod=rss&amp;auth=0" htmlUrl="https://bbs.pcbeta.com/forum.php"/>
+      <outline text=" TechRadar" title=" TechRadar" type="rss" xmlUrl="https://www.techradar.com/feeds.xml" htmlUrl="https://www.techradar.com/"/>
+      <outline text=" TechRadar Software" title=" TechRadar Software" type="rss" xmlUrl="https://www.techradar.com/feeds/tag/software" htmlUrl="https://www.techradar.com/"/>
+    </outline>
+    <outline text="软件" title="软件">
+      <outline text="Software/软件 – 0DayDown" title="Software/软件 – 0DayDown" type="rss" xmlUrl="https://www.0daydown.com/category/software/feed" htmlUrl="https://www.0daydown.com"/>
+      <outline text="黑科技软件资源分享 - Telegram Channel" title="黑科技软件资源分享 - Telegram Channel" type="rss" xmlUrl="https://rsshub.app/telegram/channel/kkaifenxiang" htmlUrl="https://t.me/s/kkaifenxiang"/>
+      <outline text="下1个好软件" title="下1个好软件" type="rss" xmlUrl="https://x1g.la/feed" htmlUrl="https://x1g.la/"/>
+      <outline text="APP喵-破解软件资源共享 - Telegram 频道" title="APP喵-破解软件资源共享 - Telegram 频道" type="rss" xmlUrl="https://rsshub.app/telegram/channel/appmew" htmlUrl="https://t.me/s/appmew"/>
+      <outline text="应用工具最新软件 - 开源中国社区" title="应用工具最新软件 - 开源中国社区" type="rss" xmlUrl="https://www.oschina.net/project/rss?tag=8" htmlUrl="https://www.oschina.net/project/tag/null"/>
+      <outline text="电脑软件 – 果核剥壳" title="电脑软件 – 果核剥壳" type="rss" xmlUrl="https://www.ghpym.com/category/all/pcsoft/feed" htmlUrl="https://www.ghpym.com/"/>
+      <outline text="安卓软件 – 果核剥壳" title="安卓软件 – 果核剥壳" type="rss" xmlUrl="https://www.ghpym.com/category/all/android/feed" htmlUrl="https://www.ghpym.com/"/>
+      <outline text="分享迷 - 优质精品TV软件、互联网资源分享" title="分享迷 - 优质精品TV软件、互联网资源分享" type="rss" xmlUrl="https://www.fenxm.com/feed.php" htmlUrl="https://www.fenxm.com/"/>
+      <outline text="非凡软件站 - 最新更新" title="非凡软件站 - 最新更新" type="rss" xmlUrl="https://www.crsky.com/xml/rss_Down.xml" htmlUrl="https://www.crsky.com/"/>
+      <outline text="软件资讯" title="软件资讯" type="rss" xmlUrl="https://www.pconline.com.cn/autopublish/rss/000000005.xml" htmlUrl="https://www.pconline.com.cn/autopublish/rss/000000005.xml"/>
+      <outline text="免费翻墙软件" title="免费翻墙软件" type="rss" xmlUrl="https://www.freefq.com/e/web/?type=rss2&amp;classid=1" htmlUrl="https://www.freefq.com/rj/"/>
+      <outline text="小众软件官方论坛 - 最新主题" title="小众软件官方论坛 - 最新主题" type="rss" xmlUrl="https://meta.appinn.net/latest.rss" htmlUrl="https://meta.appinn.net/latest"/>
+      <outline text="开源中国-软件更新资讯" title="开源中国-软件更新资讯" type="rss" xmlUrl="https://rsshub.app/oschina/news/project" htmlUrl="https://www.oschina.net/news/project"/>
+      <outline text="异星软件空间" title="异星软件空间" type="rss" xmlUrl="https://yx.bsh.me/feed" htmlUrl="https://yx.bsh.me/"/>
+      <outline text="开源中国社区最新软件" title="开源中国社区最新软件" type="rss" xmlUrl="https://www.oschina.net/project/rss" htmlUrl="https://www.oschina.net/?from=rss"/>
+      <outline text="Getitfree.cn" title="Getitfree.cn" type="rss" xmlUrl="https://getitfree.cn/feed" htmlUrl="https://getitfree.cn/"/>
+      <outline text="㊣軟體玩家" title="㊣軟體玩家" type="rss" xmlUrl="https://feeds.feedburner.com/quicktop" htmlUrl="https://blog.soft.idv.tw/"/>
+      <outline text="反斗软件" title="反斗软件" type="rss" xmlUrl="https://www.apprcn.com/feed" htmlUrl="https://www.apprcn.com/"/>
+      <outline text="少数派" title="少数派" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com/feed"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com" htmlUrl="https://www.iplaysoft.com/"/>
+      <outline text="小众软件" title="小众软件" type="rss" xmlUrl="http://feed.appinn.com" htmlUrl="http://www.appinn.com/"/>
+      <outline text="远景论坛 - Windows 11 论坛" title="远景论坛 - Windows 11 论坛" type="rss" xmlUrl="https://bbs.pcbeta.com/forum.php?mod=rss&amp;fid=563&amp;auth=0" htmlUrl="https://bbs.pcbeta.com/forum.php?mod=forumdisplay&amp;fid=563"/>
+      <outline text="吾爱破解 - 精品软件区" title="吾爱破解 - 精品软件区" type="rss" xmlUrl="https://www.52pojie.cn/forum.php?mod=rss&amp;fid=16" htmlUrl="https://www.52pojie.cn/forum-16-1.html"/>
+      <outline text="吾爱破解 - 逆向资源区" title="吾爱破解 - 逆向资源区" type="rss" xmlUrl="https://www.52pojie.cn/forum.php?mod=rss&amp;fid=4" htmlUrl="https://www.52pojie.cn/forum-4-1.html"/>
+      <outline text="吾爱破解 - 原创发布区" title="吾爱破解 - 原创发布区" type="rss" xmlUrl="https://www.52pojie.cn/forum.php?mod=rss&amp;fid=2" htmlUrl="https://www.52pojie.cn/forum-2-1.html"/>
+      <outline text="Giveaway of the Day" title="Giveaway of the Day" type="rss" xmlUrl="https://feeds.feedburner.com/giveawayoftheday/feed" htmlUrl="https://www.giveawayoftheday.com/"/>
+      <outline text="重灌狂人" title="重灌狂人" type="rss" xmlUrl="https://briian.com/feed/" htmlUrl="https://briian.com/"/>
+    </outline>
+    <outline text="脚本插件" title="脚本插件">
+      <outline text="Google Chrome Browser Extensions" title="Google Chrome Browser Extensions" type="rss" xmlUrl="https://www.reddit.com/r/chrome_extensions/.rss" htmlUrl="https://www.reddit.com/r/chrome_extensions/"/>
+      <outline text="Chrome插件" title="Chrome插件" type="rss" xmlUrl="https://chromecj.com/rss/" htmlUrl="https://chromecj.com/"/>
+      <outline text="Created scripts" title="Created scripts" type="rss" xmlUrl="https://greasyfork.org/zh-CN/scripts.atom?sort=created" htmlUrl="https://greasyfork.org/zh-CN/scripts?sort=created"/>
+      <outline text="AutoHotkey Community" title="AutoHotkey Community" type="rss" xmlUrl="https://autohotkey.com/boards/feed.php?mode=topics" htmlUrl="https://autohotkey.com/boards/index.php"/>
+      <outline text="Updated scripts" title="Updated scripts" type="rss" xmlUrl="https://greasyfork.org/zh-CN/scripts.atom?sort=updated" htmlUrl="https://greasyfork.org/zh-CN/scripts?sort=updated"/>
+    </outline>
+    <outline text="工控" title="工控">
+      <outline text="Yaskawa America" title="Yaskawa America" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa0_4xna1d031vj_XdzTtBA" htmlUrl="http://www.youtube.com/channel/UCa0_4xna1d031vj_XdzTtBA"/>
+      <outline text="電子工程專輯" title="電子工程專輯" type="rss" xmlUrl="https://www.eettaiwan.com/feed/" htmlUrl="https://www.eettaiwan.com/"/>
+    </outline>
+    <outline text="新闻" title="新闻">
+      <outline text="cnBeta.COM" title="cnBeta.COM" type="rss" xmlUrl="https://rss.cnbeta.com.tw/" htmlUrl="https://www.cnbeta.com/"/>
+    </outline>
+    <outline text="编程" title="编程">
+      <outline text="Trending Python repositories on GitHub this month · GitHub" title="Trending Python repositories on GitHub this month · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/monthly/python" htmlUrl="https://github.com/trending/python?since=monthly"/>
+      <outline text="GitHub Python Daily Trending" title="GitHub Python Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
+      <outline text="GitHub Python Weekly Trending" title="GitHub Python Weekly Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/python.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
+      <outline text="GitHub All Languages Monthly Trending" title="GitHub All Languages Monthly Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/monthly/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
+      <outline text="Trending Python repositories on GitHub today · GitHub" title="Trending Python repositories on GitHub today · GitHub" type="rss" xmlUrl="https://rsshub.app/github/trending/daily/python" htmlUrl="https://github.com/trending/python?since=daily"/>
+      <outline text="GitHub All Languages Daily Trending" title="GitHub All Languages Daily Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
+      <outline text="GitHub All Languages Weekly Trending" title="GitHub All Languages Weekly Trending" type="rss" xmlUrl="https://mshibanami.github.io/GitHubTrendingRSS/weekly/all.xml" htmlUrl="http://mshibanami.github.io/GitHubTrendingRSS"/>
+      <outline text="Github飙升榜" title="Github飙升榜" type="rss" xmlUrl="http://toxomo.synology.me:10001/users/1/web_requests/14/github.xml" htmlUrl="https://localhost:3000"/>
+    </outline>
+  </body>
+</opml>
